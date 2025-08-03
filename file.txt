@@ -52,3 +52,4 @@ check pull in version 50
 check pull in version 51
 check pull in version 52
 check pull in version 53
+check pull in version 54
