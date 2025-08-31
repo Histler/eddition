@@ -24,3 +24,4 @@ check pull in version 22
 check pull in version 23
 check pull in version 24
 check pull in version 25
+check pull in version 26
