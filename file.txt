@@ -10,3 +10,4 @@ check pull in version 8
 check pull in version 9
 check pull in version 10
 check pull in version 11
+check pull in version 12
